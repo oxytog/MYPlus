@@ -28,14 +28,14 @@
   "apps": [
     {
       "beta": false,
-      "bundleIdentifier": "com.google.ios.youtube",
+      "bundleIdentifier": "com.trollhelper.myplus",
       "developerName": "alfiecg24",
-      "downloadURL": "https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.3/TrollInstallerX-20D50.ipa",
+      "downloadURL": "https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmedia.havoc.app%2F631919af549621e7e74b7250&_gl=1*v6b4au*_ga*NDg4NTYwOTQyLjE3MjkwNDY1Mzg.*_ga_EY36BHVHTM*MTcyOTYzNjMxOC4zLjAuMTcyOTYzNjMxOC42MC4wLjA.",
       "iconURL": "https://github.com/alfiecg24/TrollInstallerX/blob/main/Resources/Icon.png",
-      "localizedDescription": "A TrollStore installer for iOS 14 - 16.6.1",
+      "localizedDescription": "TrollHelper, a installer for iOS 14 - 16 & 17. Note that this requires a jailbreak to install. For jailed devices, see another app called TrollHelper Jailed. ",
       "name": "TrollInstallerX",
       "screenshotURLs": [
-        ""
+        "https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fmedia.havoc.app%2F631919af549621e7e74b7250&_gl=1*v6b4au*_ga*NDg4NTYwOTQyLjE3MjkwNDY1Mzg.*_ga_EY36BHVHTM*MTcyOTYzNjMxOC4zLjAuMTcyOTYzNjMxOC42MC4wLjA."
       ],
       "size": 122384371,
       "subtitle": "TrollInstallerX",
