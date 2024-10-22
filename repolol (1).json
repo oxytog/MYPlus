@@ -9,9 +9,7 @@
       "localizedDescription": "Misaka is a device tweaker for iOS 15 - 16.6.1 that uses an MDC & KFD exploit.\n\nIt consists of 24 default repos & lots of tweaks without a jailbreak.",
       "name": "Misaka",
       "screenshotURLs": [
-        "https://user-images.githubusercontent.com/705880/65605563-2f009d00-df5e-11e9-9b40-1f36135d5c80.PNG",
-        "https://user-images.githubusercontent.com/705880/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb.PNG",
-        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+        ""
       ],
       "size": 2184796,
       "subtitle": "A device tweaker for iOS 15 - 16.6.1.",
@@ -29,9 +27,7 @@
       "localizedDescription": "Cowabunga allows users to tweak their device without a jailbreak using MDC on iOS 15 - 16.1.2.\n\nStatus Bar Changer, Themes, Passcode Face Changer, Whitelist Feature, JIT, Remove 3 App Limit, and more!",
       "name": "Cowabunga",
       "screenshotURLs": [
-        "https://user-images.githubusercontent.com/705880/65605563-2f009d00-df5e-11e9-9b40-1f36135d5c80.PNG",
-        "https://user-images.githubusercontent.com/705880/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb.PNG",
-        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+        ""
       ],
       "size": 2184796,
       "subtitle": "A device tweaker using the MDC exploit on iOS 15 - 16.1.2.",
