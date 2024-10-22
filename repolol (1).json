@@ -2,6 +2,24 @@
   "apps": [
     {
       "beta": false,
+      "bundleIdentifier": "com.wdbthreeapplimitremover.myplus",
+      "developerName": "Riley Testut",
+      "downloadURL": "https://github.com/zhuowei/WDBRemoveThreeAppLimit/releases/download/v1.0/WDBRemoveThreeAppLimit-v1.0.ipa",
+      "iconURL": "",
+      "localizedDescription": "Removes the three app limit on iOS 14 - 16.1.2 (excluding 15.7.2).\n\nKeep in mind you are still limited to 10 App ID's.",
+      "name": "WDBRemoveThreeAppLimit",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "Remove the three app limit.",
+      "tintColor": "018084",
+      "version": "1.0",
+      "versionDate": "2024-10-22T14:00:00-07:00",
+      "versionDescription": " Initial release."
+    },
+    {
+      "beta": false,
       "bundleIdentifier": "com.trollinstallerx.myplus",
       "developerName": "alfiecg24",
       "downloadURL": "https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.3/TrollInstallerX-20D50.ipa",
@@ -15,7 +33,7 @@
       "subtitle": "TrollStore Installer for iOS 14 - 16.6.1",
       "tintColor": "018084",
       "version": "1.0.3",
-      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDate": "2024-10-22T14:00:00-07:00",
       "versionDescription": "- Update for Xcode 15.4+ compilation (fixes #25)\nAdded a temporary fix for yellow iPhone 14 (Plus) devices on iOS 16.3, please use TrollInstallerX-20D50.ipa (fixes #33)\nRemoving confusing logging around exploit deinitialisation (e.g. #11)\nFix arm64e devices on iOS 15.7.x that couldn't download the kernelcache by updating libgrabkernel2 (should, in theory, fix #21)\nNote: A8 devices on iOS 15.2+ will not be supported until a future release of TrollInstallerX. Furthermore, support for arm64e (A12+) devices on early iOS 17.0 betas is not planned, unless someone else would like to implement it. You can now use TrollRestore for both of these cases."
     }
   ],
