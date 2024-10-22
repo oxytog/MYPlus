@@ -2,6 +2,32 @@
   "apps": [
     {
       "beta": false,
+      "bundleIdentifier": "com.trollinstallerx.myplus",
+      "developerName": "alfiecg24",
+      "downloadURL": "https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.3/TrollInstallerX-20D50.ipa",
+      "iconURL": "https://github.com/alfiecg24/TrollInstallerX/blob/main/Resources/Icon.png",
+      "localizedDescription": "A TrollStore installer for iOS 14 - 16.6.1",
+      "name": "TrollInstallerX",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 122384371,
+      "subtitle": "TrollInstallerX",
+      "tintColor": "FF0000",
+      "version": "1.0.3",
+      "versionDate": "2024-10-22T12:00:00+02:00",
+      "versionDescription": "Latest version from GitHub releases"
+    }
+  ],
+  "identifier": "com.myplus.source",
+  "name": "MYPlus",
+  "news": "MYPlus, the upcoming source for utillties.",
+  "userInfo": {}
+}
+{
+  "apps": [
+    {
+      "beta": false,
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "alfiecg24",
       "downloadURL": "https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.3/TrollInstallerX-20D50.ipa",
