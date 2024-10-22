@@ -3,7 +3,7 @@
     {
       "beta": false,
       "bundleIdentifier": "com.wdbthreeapplimitremover.myplus",
-      "developerName": "Riley Testut",
+      "developerName": "zhouwei",
       "downloadURL": "https://github.com/zhuowei/WDBRemoveThreeAppLimit/releases/download/v1.0/WDBRemoveThreeAppLimit-v1.0.ipa",
       "iconURL": "",
       "localizedDescription": "Removes the three app limit on iOS 14 - 16.1.2 (excluding 15.7.2).\n\nKeep in mind you are still limited to 10 App ID's.",
