@@ -2,8 +2,48 @@
   "apps": [
     {
       "beta": false,
+      "bundleIdentifier": "com.misaka.myplus",
+      "developerName": "straight-tamago",
+      "downloadURL": "https://github.com/straight-tamago/misaka/releases/download/8.2.4/misaka-v8.2.4.ipa",
+      "iconURL": "",
+      "localizedDescription": "Misaka is a device tweaker for iOS 15 - 16.6.1 that uses an MDC & KFD exploit.\n\nIt consists of 24 default repos & lots of tweaks without a jailbreak.",
+      "name": "Misaka",
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/65605563-2f009d00-df5e-11e9-9b40-1f36135d5c80.PNG",
+        "https://user-images.githubusercontent.com/705880/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb.PNG",
+        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+      ],
+      "size": 2184796,
+      "subtitle": "A device tweaker for iOS 15 - 16.6.1.",
+      "tintColor": "018084",
+      "version": "8.2.4",
+      "versionDate": "2024-10-22T14:00:00-07:00",
+      "versionDescription": "Fixed Crash Bug (8.2.3 - )\nFixed Icon Theme Manager\nLicense (ColorfulX)\nThere will probably be no update until the new kernel exploit is released."
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.cowabunga.myplus",
+      "developerName": "leminlemz",
+      "downloadURL": "https://github.com/leminlimez/Cowabunga/releases/download/v10.3.2/Cowabunga.ipa",
+      "iconURL": "https://user-images.githubusercontent.com/52459150/215552092-9dc1e029-da35-43da-867f-17279e3dc180.png",
+      "localizedDescription": "Cowabunga allows users to tweak their device without a jailbreak using MDC on iOS 15 - 16.1.2.\n\nStatus Bar Changer, Themes, Passcode Face Changer, Whitelist Feature, JIT, Remove 3 App Limit, and more!",
+      "name": "Cowabunga",
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/65605563-2f009d00-df5e-11e9-9b40-1f36135d5c80.PNG",
+        "https://user-images.githubusercontent.com/705880/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb.PNG",
+        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+      ],
+      "size": 2184796,
+      "subtitle": "A device tweaker using the MDC exploit on iOS 15 - 16.1.2.",
+      "tintColor": "018084",
+      "version": "10.3.2",
+      "versionDate": "2024-10-22T14:00:00-07:00",
+      "versionDescription": "Changing carrier bar strength now works when you do not have a sim card (or dual sim for secondary carrier)\n"
+    },
+    {
+      "beta": false,
       "bundleIdentifier": "com.wdbthreeapplimitremover.myplus",
-      "developerName": "zhouwei",
+      "developerName": "Riley zhuowei",
       "downloadURL": "https://github.com/zhuowei/WDBRemoveThreeAppLimit/releases/download/v1.0/WDBRemoveThreeAppLimit-v1.0.ipa",
       "iconURL": "",
       "localizedDescription": "Removes the three app limit on iOS 14 - 16.1.2 (excluding 15.7.2).\n\nKeep in mind you are still limited to 10 App ID's.",
