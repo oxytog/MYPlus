@@ -1,0 +1,26 @@
+{
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.trollinstallerx.myplus",
+      "developerName": "alfiecg24",
+      "downloadURL": "https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.3/TrollInstallerX-20D50.ipa",
+      "iconURL": "https://github.com/alfiecg24/TrollInstallerX/blob/main/Resources/Icon.png",
+      "localizedDescription": "This app installs TrollStore for devices running iOS 14 - 16.6.1.\n\n*A8(X) iPads are only supported on iOS 14 - 15.1*",
+      "name": "TrollInstallerX",
+      "screenshotURLs": [
+        "https://github.com/oxytog/MYPlus/blob/main/TrollInstallerX-Install-TrollStore-button-768x1232.jpg"
+      ],
+      "size": 2184796,
+      "subtitle": "TrollStore Installer for iOS 14 - 16.6.1",
+      "tintColor": "018084",
+      "version": "1.0.3",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "- Update for Xcode 15.4+ compilation (fixes #25)\nAdded a temporary fix for yellow iPhone 14 (Plus) devices on iOS 16.3, please use TrollInstallerX-20D50.ipa (fixes #33)\nRemoving confusing logging around exploit deinitialisation (e.g. #11)\nFix arm64e devices on iOS 15.7.x that couldn't download the kernelcache by updating libgrabkernel2 (should, in theory, fix #21)\nNote: A8 devices on iOS 15.2+ will not be supported until a future release of TrollInstallerX. Furthermore, support for arm64e (A12+) devices on early iOS 17.0 betas is not planned, unless someone else would like to implement it. You can now use TrollRestore for both of these cases."
+    }
+  ],
+  "identifier": "com.example.source",
+  "name": "MYPlus",
+  "news": [],
+  "userInfo": {}
+}
