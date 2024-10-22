@@ -2,6 +2,24 @@
   "apps": [
     {
       "beta": false,
+      "bundleIdentifier": "com.filza.myplus",
+      "developerName": "Unknown",
+      "downloadURL": "",
+      "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
+      "localizedDescription": "Filza is a file manager that allows you to copy or delete files from your device. You can also view system files and more.\n",
+      "name": "Filza",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "File Manager for iOS 12+.",
+      "tintColor": "018084",
+      "version": "Unknown",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "\n"
+    },
+    {
+      "beta": false,
       "bundleIdentifier": "com.misaka.myplus",
       "developerName": "straight-tamago",
       "downloadURL": "https://github.com/straight-tamago/misaka/releases/download/8.2.4/misaka-v8.2.4.ipa",
