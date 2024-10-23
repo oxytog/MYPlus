@@ -180,6 +180,24 @@
       "version": "4.5.4",
       "versionDate": "2024-10-22T14:00:00-07:00",
       "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.trollbox.myplus",
+      "developerName": "TrollBox",
+      "downloadURL": "https://github.com/c22dev/TrollBox/releases/download/0.2/TrollBox.tipa",
+      "iconURL": "https://camo.githubusercontent.com/95b8053533136fddc6e2e0c0b667f36e22cbf4a1c7f6ef32457dff5e65d776cd/68747470733a2f2f692e6962622e636f2f62354d70776d4b2f556e7469746c65642d6d6f6469666965642e706e67",
+      "localizedDescription": "TrollBox is a tweak customizer for iOS 14 - 16.1.2 and uses a MDC exploit. It has features like AirDrop Spammer, Location Simulator, and more.",
+      "name": "TrollBox",
+      "screenshotURLs": [
+        "https://camo.githubusercontent.com/3e6cebf6a44dee675927951515ec5a2fd6dab53f2c3359e7639c03c26b80ecff/68747470733a2f2f692e6962622e636f2f4b58424a7876792f494d472d343337322d6970686f6e6531336d69646e696768742d706f7274726169742e706e67"
+      ],
+      "size": 2184796,
+      "subtitle": "A device tweaker for iOS 14 - 16.1.2.",
+      "tintColor": "018084",
+      "version": "0.2 beta",
+      "versionDate": "2024-10-22T14:00:00-07:00",
+      "versionDescription": "Development has stopped and is archived."
     }
   ],
   "identifier": "com.myplus.source",
