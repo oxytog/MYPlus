@@ -216,6 +216,24 @@
       "version": "4.5.4",
       "versionDate": "2024-10-22T14:00:00-07:00",
       "versionDescription": "Development has stopped and is archived."
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.bootstrap.myplus",
+      "developerName": "Procursus Team",
+      "downloadURL": "https://github.com/roothide/Bootstrap/releases/download/1.2.8/Bootstrap.tipa",
+      "iconURL": "https://avatars.githubusercontent.com/u/65269419?s=200&v=4",
+      "localizedDescription": "A full-featured bootstrap for iOS 15 - 17 on A8 - A17 & M1/M2. This is not a full jailbreak and not all tweaks will work. Must be installed using TrollStore.",
+      "name": "Roothide Bootstrap",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "A full-featured bootstrap for iOS 15 - 17.",
+      "tintColor": "018084",
+      "version": "1.2.8",
+      "versionDate": "2024-10-23T14:00:00-07:00",
+      "versionDescription": ""
     }
   ],
   "identifier": "com.myplus.source",
