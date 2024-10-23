@@ -96,7 +96,7 @@
       "bundleIdentifier": "com.trollinstallerx.myplus",
       "developerName": "alfiecg24",
       "downloadURL": "https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.3/TrollInstallerX-20D50.ipa",
-      "iconURL": "https://github.com/alfiecg24/TrollInstallerX/blob/main/Resources/Icon.png",
+      "iconURL": "https://github.com/alfiecg24/TrollInstallerX/blob/main/Resources/Icon.png?raw=true",
       "localizedDescription": "This app installs TrollStore for devices running iOS 14 - 16.6.1.\n\n*A8(X) iPads are only supported on iOS 14 - 15.1*",
       "name": "TrollInstallerX",
       "screenshotURLs": [
