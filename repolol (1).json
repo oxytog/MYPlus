@@ -5,7 +5,7 @@
       "bundleIdentifier": "com.cluckabunga.myplus",
       "developerName": "LeminLimez",
       "downloadURL": "https://github.com/leminlimez/Cluckabunga/archive/refs/tags/v2.2.1.zip",
-      "iconURL": "",
+      "iconURL": "https://cowabun.ga/static/images/cluckakfd.png",
       "localizedDescription": "Cluckabunga allows users to tweak their device without a jailbreak using KFD on iOS 16.2 - 16.5 & 16.6 beta 1.\n\nCustom themes for apps, hiding docks,and more!\n\n*This is different from Cowabunga, and also Cluckabunga has less features.*\n",
       "name": "Cluckabunga",
       "screenshotURLs": [
@@ -22,9 +22,9 @@
     {
       "beta": false,
       "bundleIdentifier": "com.filza.myplus",
-      "developerName": "Unknown",
+      "developerName": "TIGI Software",
       "downloadURL": "https://filzadownload.com/files/filza.ipa",
-      "iconURL": "",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPImPJF3sX8GiShUYbqy8EV2D5TsxdFJaaAg&s",
       "localizedDescription": "Filza is a file manager that allows you to copy or delete files from your device. You can also view system files and more.\n",
       "name": "Filza",
       "screenshotURLs": [
