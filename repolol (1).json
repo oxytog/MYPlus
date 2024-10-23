@@ -198,6 +198,24 @@
       "version": "0.2 beta",
       "versionDate": "2024-10-22T14:00:00-07:00",
       "versionDescription": "Development has stopped and is archived."
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.utmts.myplus",
+      "developerName": "UTMApp",
+      "downloadURL": "https://github.com/utmapp/UTM/releases/download/v4.5.4/UTM-HV.ipa",
+      "iconURL": "https://avatars.githubusercontent.com/u/49966544?s=200&v=4",
+      "localizedDescription": "UTM-SE is a virtual machine emulator, capable of running Linux, Windows or any operaing system. UTM is based off of QEMU. *This version requires TrollStore. Otherwise, use UTM-SE for normal devices or UTM for jailbroken devices/JIT.",
+      "name": "UTM-TS (HV)",
+      "screenshotURLs": [
+        "https://github.com/utmapp/UTM/blob/main/screen.png?raw=true"
+      ],
+      "size": 2184796,
+      "subtitle": "A virtual machine emulator based off of QEMU for iOS & MacOS.",
+      "tintColor": "018084",
+      "version": "4.5.4",
+      "versionDate": "2024-10-22T14:00:00-07:00",
+      "versionDescription": "Development has stopped and is archived."
     }
   ],
   "identifier": "com.myplus.source",
