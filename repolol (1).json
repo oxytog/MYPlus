@@ -144,6 +144,24 @@
       "version": "2.2.2",
       "versionDate": "2024-10-22T14:00:00-07:00",
       "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.trollapps.myplus",
+      "developerName": "TheResonanceTeam",
+      "downloadURL": "https://github.com/TheResonanceTeam/TrollApps/releases/download/2.3/org.resonance.store_2.3_082724.ipa",
+      "iconURL": "https://github.com/TheResonanceTeam/TrollApps/blob/main/assets/ResonanceStoreIcon.png?raw=true",
+      "localizedDescription": "TrollApps is a sideloading app that is installed using TrollStore, and provides a built-in repo system and many more other features, such as installing apps using URL schemes.",
+      "name": "TrollApps",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "A sideloading app paired with TrollStore.",
+      "tintColor": "018084",
+      "version": "2.3",
+      "versionDate": "2024-10-22T14:00:00-07:00",
+      "versionDescription": ""
     }
   ],
   "identifier": "com.myplus.source",
