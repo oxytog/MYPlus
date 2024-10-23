@@ -23,8 +23,8 @@
       "beta": false,
       "bundleIdentifier": "com.filza.myplus",
       "developerName": "Unknown",
-      "downloadURL": "",
-      "iconURL": "https://filzadownload.com/files/filza.ipa",
+      "downloadURL": "https://filzadownload.com/files/filza.ipa",
+      "iconURL": "",
       "localizedDescription": "Filza is a file manager that allows you to copy or delete files from your device. You can also view system files and more.\n",
       "name": "Filza",
       "screenshotURLs": [
