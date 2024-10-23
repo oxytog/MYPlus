@@ -252,6 +252,24 @@
       "version": "1.1.0",
       "versionDate": "2024-10-23T14:00:00-07:00",
       "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.taurine.myplus",
+      "developerName": "CoolStar",
+      "downloadURL": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.7-3/Taurine.1.1.7-3.ipa",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAiR0FDJmJogompniOlLItQxbXjO6mdgmRjQ&s",
+      "localizedDescription": "Taurine is a jailbreak for iOS 14 - 14.8.1.",
+      "name": "Taurine",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "A jailbreak for iOS 14 - 14.8.1.",
+      "tintColor": "018084",
+      "version": "1.1-7.3",
+      "versionDate": "2024-10-23T14:00:00-07:00",
+      "versionDescription": ""
     }
   ],
   "identifier": "com.myplus.source",
