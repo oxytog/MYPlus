@@ -165,7 +165,7 @@
     },
     {
       "beta": false,
-      "bundleIdentifier": "com.trollapps.myplus",
+      "bundleIdentifier": "com.utmse.myplus",
       "developerName": "UTMApp",
       "downloadURL": "https://github.com/TheResonanceTeam/TrollApps/releases/download/2.3/org.resonance.store_2.3_082724.ipa",
       "iconURL": "https://github.com/TheResonanceTeam/TrollApps/blob/main/assets/ResonanceStoreIcon.png?raw=true",
