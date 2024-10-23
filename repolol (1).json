@@ -162,6 +162,24 @@
       "version": "2.3",
       "versionDate": "2024-10-22T14:00:00-07:00",
       "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.trollapps.myplus",
+      "developerName": "UTMApp",
+      "downloadURL": "https://github.com/TheResonanceTeam/TrollApps/releases/download/2.3/org.resonance.store_2.3_082724.ipa",
+      "iconURL": "https://github.com/TheResonanceTeam/TrollApps/blob/main/assets/ResonanceStoreIcon.png?raw=true",
+      "localizedDescription": "UTM-SE is a virtual machine emulator, capable of running Linux, Windows or any operaing system. UTM is based off of QEMU. *UTM-SE does not use JIT and is slower. For jailbroken users or TrollStore users, use UTM-TS or normal UTM.",
+      "name": "UTM-SE",
+      "screenshotURLs": [
+        "https://github.com/utmapp/UTM/blob/main/screen.png?raw=true"
+      ],
+      "size": 2184796,
+      "subtitle": "A virtual machine emulator based off of QEMU for iOS & MacOS.",
+      "tintColor": "018084",
+      "version": "4.5.4",
+      "versionDate": "2024-10-22T14:00:00-07:00",
+      "versionDescription": ""
     }
   ],
   "identifier": "com.myplus.source",
