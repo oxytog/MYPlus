@@ -126,9 +126,27 @@
       "version": "6.0.1",
       "versionDate": "2024-10-22T14:00:00-07:00",
       "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.dopamine.myplus",
+      "developerName": "opa334",
+      "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.2.2/Dopamine.ipa",
+      "iconURL": "https://private-user-images.githubusercontent.com/52459150/238158404-ed04dd3e-d879-456d-9aa3-d4ed44819c7e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjk2NTE0ODcsIm5iZiI6MTcyOTY1MTE4NywicGF0aCI6Ii81MjQ1OTE1MC8yMzgxNTg0MDQtZWQwNGRkM2UtZDg3OS00NTZkLTlhYTMtZDRlZDQ0ODE5YzdlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDIzVDAyMzk0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIxNTIzMTM0OTI5YzgxZTk5ZmQwOTJlZjk4MzRmMDNhZGUxZGJhYjhkZjk5ZTc2ODVkYWI5MjE1YTcwYzk3NjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.dS5pjBmaCNYPecpPPLFKgkIuGaX-3bUPrhraDOR-1h0",
+      "localizedDescription": "Dopamine is a jailbreak for iOS 15 - 16.5.1 on A12+ and iOS 15 - 16.6.1 on ARM64.",
+      "name": "Dopamine",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "A jailbreak for iOS 15 - 16.5.1 on ARM64e and iOS 15 - 16.6.1 on ARM64.",
+      "tintColor": "018084",
+      "version": "2.2.2",
+      "versionDate": "2024-10-22T14:00:00-07:00",
+      "versionDescription": ""
     }
   ],
-  "identifier": "com.example.source",
+  "identifier": "com.myplus.source",
   "name": "MYPlus",
   "news": [],
   "userInfo": {}
