@@ -108,6 +108,24 @@
       "version": "1.0.3",
       "versionDate": "2024-10-22T14:00:00-07:00",
       "versionDescription": "- Update for Xcode 15.4+ compilation (fixes #25)\nAdded a temporary fix for yellow iPhone 14 (Plus) devices on iOS 16.3, please use TrollInstallerX-20D50.ipa (fixes #33)\nRemoving confusing logging around exploit deinitialisation (e.g. #11)\nFix arm64e devices on iOS 15.7.x that couldn't download the kernelcache by updating libgrabkernel2 (should, in theory, fix #21)\nNote: A8 devices on iOS 15.2+ will not be supported until a future release of TrollInstallerX. Furthermore, support for arm64e (A12+) devices on early iOS 17.0 betas is not planned, unless someone else would like to implement it. You can now use TrollRestore for both of these cases."
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.purekfd.myplus",
+      "developerName": "Lrdsnow",
+      "downloadURL": "https://github.com/Lrdsnow/PureKFD/releases/download/6.0.1/PureKFD.ipa",
+      "iconURL": "https://github.com/Lrdsnow/PureKFD/blob/v6/Icon.png?raw=true",
+      "localizedDescription": "PureKFD is a tweak customizer for iOS 14 - 18 beta1, which uses 3 exploits, MDC, KFD and SparseRestore. You can install tweaks without jailbreaking your device.",
+      "name": "TrollInstallerX",
+      "screenshotURLs": [
+        "https://github.com/oxytog/MYPlus/blob/main/TrollInstallerX-Install-TrollStore-button-768x1232.jpg?raw=true"
+      ],
+      "size": 2184796,
+      "subtitle": "A device tweaker for iOS 14+",
+      "tintColor": "018084",
+      "version": "6.0.1",
+      "versionDate": "2024-10-22T14:00:00-07:00",
+      "versionDescription": ""
     }
   ],
   "identifier": "com.example.source",
