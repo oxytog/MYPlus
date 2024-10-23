@@ -234,6 +234,24 @@
       "version": "1.2.8",
       "versionDate": "2024-10-23T14:00:00-07:00",
       "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.roothide.dopamine.myplus",
+      "developerName": "roothide",
+      "downloadURL": "https://github.com/roothide/Dopamine-roothide/releases/download/1.1.0/Dopamine-RootHide-1.1.0.tipa",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-d6zu7iN9eHOA3jZfxWe7zg3Z64FeoPkI2w&s",
+      "localizedDescription": "Dopamine is a jailbreak for iOS 15 - 16.5.1 on ARM64e and iOS 15 - 16.6.1 on ARM64. Roothide Dopamine prevents jailbreak detection, be certain tweaks need to be complied to work with roothide.",
+      "name": "Roothide Dopamine",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "A roothide-based jailbreak for iOS 15 - 16.5.1 on ARM64 and iOS 15 - 16.6.1 on ARM64e.",
+      "tintColor": "018084",
+      "version": "1.1.0",
+      "versionDate": "2024-10-23T14:00:00-07:00",
+      "versionDescription": ""
     }
   ],
   "identifier": "com.myplus.source",
