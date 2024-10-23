@@ -241,7 +241,7 @@
       "developerName": "roothide",
       "downloadURL": "https://github.com/roothide/Dopamine-roothide/releases/download/1.1.0/Dopamine-RootHide-1.1.0.tipa",
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-d6zu7iN9eHOA3jZfxWe7zg3Z64FeoPkI2w&s",
-      "localizedDescription": "Dopamine is a jailbreak for iOS 15 - 16.5.1 on ARM64e and iOS 15 - 16.6.1 on ARM64. Roothide Dopamine prevents jailbreak detection, be certain tweaks need to be complied to work with roothide.",
+      "localizedDescription": "Dopamine is a jailbreak for iOS 15 - 16.5.1 on ARM64e and iOS 15 - 16.6.1 on ARM64. Roothide Dopamine prevents jailbreak detection, be certain tweaks need to be complied to work with roothide. This must be installed with TrollStore.",
       "name": "Roothide Dopamine",
       "screenshotURLs": [
         ""
