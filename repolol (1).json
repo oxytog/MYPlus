@@ -270,6 +270,24 @@
       "version": "1.1-7.3",
       "versionDate": "2024-10-23T14:00:00-07:00",
       "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.unc0ver.myplus",
+      "developerName": "pwn20wnd",
+      "downloadURL": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
+      "iconURL": "https://theapplewiki.com/images/applewiki/f/f2/Unc0ver_Logo.png",
+      "localizedDescription": "unc0ver is a jailbreak for iOS 11 - 14.3.",
+      "name": "unc0ver",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "A jailbreak for iOS 11 - 14.3",
+      "tintColor": "018084",
+      "version": "8.0.2",
+      "versionDate": "2024-10-23T14:00:00-07:00",
+      "versionDescription": ""
     }
   ],
   "identifier": "com.myplus.source",
