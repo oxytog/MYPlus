@@ -306,6 +306,24 @@
       "version": "2.0",
       "versionDate": "2024-10-23T14:00:00-07:00",
       "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.xinaa15.myplus",
+      "developerName": "NotDarkn",
+      "downloadURL": "https://github.com/NotDarkn/XinaA15/releases/download/2.1.5.2/XinaA12.2.1.5.2.ipa",
+      "iconURL": "https://media.idownloadblog.com/wp-content/uploads/2022/12/XinaA15.png",
+      "localizedDescription": "XinaA15 is a jailbreak for iOS 15 - 15.4.1",
+      "name": "XinaA15",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "A jailbreak for iOS 15 - 15.4.1",
+      "tintColor": "0wor18084",
+      "version": "2.1.5.2",
+      "versionDate": "2024-10-23T14:00:00-07:00",
+      "versionDescription": ""
     }
   ],
   "identifier": "com.myplus.source",
