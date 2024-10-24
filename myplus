@@ -3,7 +3,7 @@
     {
       "beta": false,
       "bundleIdentifier": "com.cluckabunga.myplus",
-      "developerName": "LeminLimez",
+      "developerName": "LeminLemez",
       "downloadURL": "https://github.com/leminlimez/Cluckabunga/archive/refs/tags/v2.2.1.zip",
       "iconURL": "https://cowabun.ga/static/images/cluckakfd.png",
       "localizedDescription": "Cluckabunga allows users to tweak their device without a jailbreak using KFD on iOS 16.2 - 16.5 & 16.6 beta 1.\n\nCustom themes for apps, hiding docks,and more!\n\n*This is different from Cowabunga, and also Cluckabunga has less features.*\n",
@@ -286,6 +286,24 @@
       "subtitle": "A jailbreak for iOS 11 - 14.3",
       "tintColor": "018084",
       "version": "8.0.2",
+      "versionDate": "2024-10-23T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.nugget.myplus",
+      "developerName": "LeminLemez",
+      "downloadURL": "https://github.com/leminlimez/Nugget-Mobile/releases/download/v2.0/Nugget.ipa",
+      "iconURL": "https://github.com/leminlimez/Nugget-Mobile/raw/1881fdc2b721fd2675a2909e7fbc24769d11bb53/readme-images/icon.png",
+      "localizedDescription": "Nugget is a tweaker for iOS 16 - 18 & 18 beta 1, which uses the SparseRestore exploit to tweak devices. You can enable boot chime, change status bar, and more.",
+      "name": "Nugget",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "A device tweaker using the SparseRestore exploit on iOS 16 - 18 & 18 beta 1.",
+      "tintColor": "018084",
+      "version": "2.0",
       "versionDate": "2024-10-23T14:00:00-07:00",
       "versionDescription": ""
     }
